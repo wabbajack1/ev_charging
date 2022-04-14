@@ -1,0 +1,9 @@
+doc
+bin
+include
+lib
+random
+backend/__pycache__
+*.pptx
+.DS_Store
+.vscode
